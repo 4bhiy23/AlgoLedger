@@ -28,5 +28,21 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-19T12:58:11.102Z"
+  },
+  {
+    "folderId": "leetcode/0695-max-area-of-island",
+    "frontendId": "695",
+    "title": "Max Area of Island",
+    "slug": "max-area-of-island",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Matrix"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-19T13:33:25.236Z"
   }
 ]

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**2** problems solved — 1 Easy · 1 Medium · 0 Hard
+**3** problems solved — 1 Easy · 2 Medium · 0 Hard
 
 ## Contents
 
@@ -15,6 +15,7 @@
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
+| 0695 | [Max Area of Island](0695-max-area-of-island/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
 
 ## By Difficulty
@@ -25,11 +26,12 @@
 | --- | --- | --- |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Array, Binary Search, Sorting |
 
-### Medium (1)
+### Medium (2)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
+| 0695 | [Max Area of Island](0695-max-area-of-island/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 
 ### Hard (0)
 
@@ -38,11 +40,12 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (2)</summary>
+<summary>Array (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
+| 0695 | [Max Area of Island](0695-max-area-of-island/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 
 </details>
@@ -57,29 +60,32 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Breadth-First Search (1)</summary>
+<summary>Breadth-First Search (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
+| 0695 | [Max Area of Island](0695-max-area-of-island/README.md) | Medium |
 
 </details>
 
 <details>
-<summary>Depth-First Search (1)</summary>
+<summary>Depth-First Search (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
+| 0695 | [Max Area of Island](0695-max-area-of-island/README.md) | Medium |
 
 </details>
 
 <details>
-<summary>Matrix (1)</summary>
+<summary>Matrix (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
+| 0695 | [Max Area of Island](0695-max-area-of-island/README.md) | Medium |
 
 </details>
 
@@ -93,22 +99,24 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Union-Find (1)</summary>
+<summary>Union-Find (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
+| 0695 | [Max Area of Island](0695-max-area-of-island/README.md) | Medium |
 
 </details>
 
 ## By Language
 
 <details>
-<summary>python3 (2)</summary>
+<summary>python3 (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
+| 0695 | [Max Area of Island](0695-max-area-of-island/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 
 </details>
@@ -117,5 +125,6 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0695 | [Max Area of Island](0695-max-area-of-island/README.md) | Medium | 2026-10-19 |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | 2026-10-19 |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | 2026-10-19 |

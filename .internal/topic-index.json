@@ -1,7 +1,8 @@
 {
   "Array": [
     "leetcode/2089-find-target-indices-after-sorting-array",
-    "leetcode/0200-number-of-islands"
+    "leetcode/0200-number-of-islands",
+    "leetcode/0695-max-area-of-island"
   ],
   "Binary Search": [
     "leetcode/2089-find-target-indices-after-sorting-array"
@@ -10,15 +11,19 @@
     "leetcode/2089-find-target-indices-after-sorting-array"
   ],
   "Depth-First Search": [
-    "leetcode/0200-number-of-islands"
+    "leetcode/0200-number-of-islands",
+    "leetcode/0695-max-area-of-island"
   ],
   "Breadth-First Search": [
-    "leetcode/0200-number-of-islands"
+    "leetcode/0200-number-of-islands",
+    "leetcode/0695-max-area-of-island"
   ],
   "Union-Find": [
-    "leetcode/0200-number-of-islands"
+    "leetcode/0200-number-of-islands",
+    "leetcode/0695-max-area-of-island"
   ],
   "Matrix": [
-    "leetcode/0200-number-of-islands"
+    "leetcode/0200-number-of-islands",
+    "leetcode/0695-max-area-of-island"
   ]
 }
