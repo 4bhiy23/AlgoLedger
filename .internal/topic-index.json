@@ -1,11 +1,24 @@
 {
   "Array": [
-    "leetcode/2089-find-target-indices-after-sorting-array"
+    "leetcode/2089-find-target-indices-after-sorting-array",
+    "leetcode/0200-number-of-islands"
   ],
   "Binary Search": [
     "leetcode/2089-find-target-indices-after-sorting-array"
   ],
   "Sorting": [
     "leetcode/2089-find-target-indices-after-sorting-array"
+  ],
+  "Depth-First Search": [
+    "leetcode/0200-number-of-islands"
+  ],
+  "Breadth-First Search": [
+    "leetcode/0200-number-of-islands"
+  ],
+  "Union-Find": [
+    "leetcode/0200-number-of-islands"
+  ],
+  "Matrix": [
+    "leetcode/0200-number-of-islands"
   ]
 }

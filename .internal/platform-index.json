@@ -1,5 +1,6 @@
 {
   "leetcode": [
-    "leetcode/2089-find-target-indices-after-sorting-array"
+    "leetcode/2089-find-target-indices-after-sorting-array",
+    "leetcode/0200-number-of-islands"
   ]
 }
