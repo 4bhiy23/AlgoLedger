@@ -1,14 +1,15 @@
 {
-  "totalSolved": 3,
+  "totalSolved": 4,
   "byDifficulty": {
     "Easy": 1,
-    "Medium": 2,
+    "Medium": 3,
     "Hard": 0
   },
-  "currentStreak": 1,
-  "longestStreak": 1,
-  "lastSolvedDate": "2026-10-19",
+  "currentStreak": 2,
+  "longestStreak": 2,
+  "lastSolvedDate": "2026-10-20",
   "activityByDate": {
-    "2026-10-19": 3
+    "2026-10-19": 3,
+    "2026-10-20": 1
   }
 }

@@ -2,7 +2,8 @@
   "Array": [
     "leetcode/2089-find-target-indices-after-sorting-array",
     "leetcode/0200-number-of-islands",
-    "leetcode/0695-max-area-of-island"
+    "leetcode/0695-max-area-of-island",
+    "leetcode/0078-subsets"
   ],
   "Binary Search": [
     "leetcode/2089-find-target-indices-after-sorting-array"
@@ -25,5 +26,11 @@
   "Matrix": [
     "leetcode/0200-number-of-islands",
     "leetcode/0695-max-area-of-island"
+  ],
+  "Backtracking": [
+    "leetcode/0078-subsets"
+  ],
+  "Bit Manipulation": [
+    "leetcode/0078-subsets"
   ]
 }

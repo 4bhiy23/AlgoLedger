@@ -44,5 +44,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-19T13:33:25.236Z"
+  },
+  {
+    "folderId": "leetcode/0078-subsets",
+    "frontendId": "78",
+    "title": "Subsets",
+    "slug": "subsets",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-20T18:17:42.127Z"
   }
 ]
