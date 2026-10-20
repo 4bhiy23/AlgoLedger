@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "22",
+  "frontendId": "22",
+  "title": "Generate Parentheses",
+  "slug": "generate-parentheses",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Dynamic Programming",
+    "Backtracking",
+    "Bracket Sequences"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "1 ms",
+  "memory": "19.2 MB",
+  "submissionId": "2177355650",
+  "acceptedAt": "2026-10-20T18:29:42.581Z",
+  "updatedAt": "2026-10-20T18:29:43.575Z",
+  "url": "https://leetcode.com/problems/generate-parentheses/",
+  "version": 1
+}

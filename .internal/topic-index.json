@@ -30,9 +30,19 @@
   ],
   "Backtracking": [
     "leetcode/0078-subsets",
-    "leetcode/0046-permutations"
+    "leetcode/0046-permutations",
+    "leetcode/0022-generate-parentheses"
   ],
   "Bit Manipulation": [
     "leetcode/0078-subsets"
+  ],
+  "String": [
+    "leetcode/0022-generate-parentheses"
+  ],
+  "Dynamic Programming": [
+    "leetcode/0022-generate-parentheses"
+  ],
+  "Bracket Sequences": [
+    "leetcode/0022-generate-parentheses"
   ]
 }

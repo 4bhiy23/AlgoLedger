@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**5** problems solved — 1 Easy · 4 Medium · 0 Hard
+**6** problems solved — 1 Easy · 5 Medium · 0 Hard
 
 ## Contents
 
@@ -14,6 +14,7 @@
 
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
+| 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | String, Dynamic Programming, Backtracking, Bracket Sequences |
 | 0046 | [Permutations](0046-permutations/README.md) | Medium | Array, Backtracking |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | Array, Backtracking, Bit Manipulation |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
@@ -28,10 +29,11 @@
 | --- | --- | --- |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Array, Binary Search, Sorting |
 
-### Medium (4)
+### Medium (5)
 
 | # | Title | Topics |
 | --- | --- | --- |
+| 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | String, Dynamic Programming, Backtracking, Bracket Sequences |
 | 0046 | [Permutations](0046-permutations/README.md) | Array, Backtracking |
 | 0078 | [Subsets](0078-subsets/README.md) | Array, Backtracking, Bit Manipulation |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
@@ -57,10 +59,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Backtracking (2)</summary>
+<summary>Backtracking (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 | 0046 | [Permutations](0046-permutations/README.md) | Medium |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
 
@@ -85,6 +88,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Bracket Sequences (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Breadth-First Search (2)</summary>
 
 | # | Title | Difficulty |
@@ -101,6 +113,15 @@ _No problems solved yet._
 | --- | --- | --- |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0695 | [Max Area of Island](0695-max-area-of-island/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Dynamic Programming (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 
 </details>
 
@@ -124,6 +145,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>String (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Union-Find (2)</summary>
 
 | # | Title | Difficulty |
@@ -136,10 +166,11 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (5)</summary>
+<summary>python3 (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 | 0046 | [Permutations](0046-permutations/README.md) | Medium |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
@@ -152,6 +183,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | 2026-10-20 |
 | 0046 | [Permutations](0046-permutations/README.md) | Medium | 2026-10-20 |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | 2026-10-20 |
 | 0695 | [Max Area of Island](0695-max-area-of-island/README.md) | Medium | 2026-10-19 |
