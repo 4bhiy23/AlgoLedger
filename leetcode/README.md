@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**4** problems solved — 1 Easy · 3 Medium · 0 Hard
+**5** problems solved — 1 Easy · 4 Medium · 0 Hard
 
 ## Contents
 
@@ -14,6 +14,7 @@
 
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
+| 0046 | [Permutations](0046-permutations/README.md) | Medium | Array, Backtracking |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | Array, Backtracking, Bit Manipulation |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0695 | [Max Area of Island](0695-max-area-of-island/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
@@ -27,10 +28,11 @@
 | --- | --- | --- |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Array, Binary Search, Sorting |
 
-### Medium (3)
+### Medium (4)
 
 | # | Title | Topics |
 | --- | --- | --- |
+| 0046 | [Permutations](0046-permutations/README.md) | Array, Backtracking |
 | 0078 | [Subsets](0078-subsets/README.md) | Array, Backtracking, Bit Manipulation |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0695 | [Max Area of Island](0695-max-area-of-island/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
@@ -42,10 +44,11 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (4)</summary>
+<summary>Array (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0046 | [Permutations](0046-permutations/README.md) | Medium |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0695 | [Max Area of Island](0695-max-area-of-island/README.md) | Medium |
@@ -54,10 +57,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Backtracking (1)</summary>
+<summary>Backtracking (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0046 | [Permutations](0046-permutations/README.md) | Medium |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
 
 </details>
@@ -132,10 +136,11 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (4)</summary>
+<summary>python3 (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0046 | [Permutations](0046-permutations/README.md) | Medium |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0695 | [Max Area of Island](0695-max-area-of-island/README.md) | Medium |
@@ -147,6 +152,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0046 | [Permutations](0046-permutations/README.md) | Medium | 2026-10-20 |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | 2026-10-20 |
 | 0695 | [Max Area of Island](0695-max-area-of-island/README.md) | Medium | 2026-10-19 |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | 2026-10-19 |
