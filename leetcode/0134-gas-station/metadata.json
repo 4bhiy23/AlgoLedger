@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "134",
+  "frontendId": "134",
+  "title": "Gas Station",
+  "slug": "gas-station",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "16 ms",
+  "memory": "25.8 MB",
+  "submissionId": "2179081947",
+  "acceptedAt": "2026-10-22T18:04:30.519Z",
+  "updatedAt": "2026-10-22T18:04:31.486Z",
+  "url": "https://leetcode.com/problems/gas-station/",
+  "version": 1
+}

@@ -101,5 +101,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-22T17:56:57.668Z"
+  },
+  {
+    "folderId": "leetcode/0134-gas-station",
+    "frontendId": "134",
+    "title": "Gas Station",
+    "slug": "gas-station",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-22T18:04:30.519Z"
   }
 ]

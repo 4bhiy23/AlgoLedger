@@ -5,7 +5,8 @@
     "leetcode/0695-max-area-of-island",
     "leetcode/0078-subsets",
     "leetcode/0046-permutations",
-    "leetcode/0948-bag-of-tokens"
+    "leetcode/0948-bag-of-tokens",
+    "leetcode/0134-gas-station"
   ],
   "Binary Search": [
     "leetcode/2089-find-target-indices-after-sorting-array"
@@ -51,6 +52,7 @@
     "leetcode/0948-bag-of-tokens"
   ],
   "Greedy": [
-    "leetcode/0948-bag-of-tokens"
+    "leetcode/0948-bag-of-tokens",
+    "leetcode/0134-gas-station"
   ]
 }
