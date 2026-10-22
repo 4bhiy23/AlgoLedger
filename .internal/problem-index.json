@@ -86,5 +86,20 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-20T18:29:42.581Z"
+  },
+  {
+    "folderId": "leetcode/0948-bag-of-tokens",
+    "frontendId": "948",
+    "title": "Bag of Tokens",
+    "slug": "bag-of-tokens",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-22T17:56:57.668Z"
   }
 ]

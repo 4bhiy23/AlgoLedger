@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "985",
+  "frontendId": "948",
+  "title": "Bag of Tokens",
+  "slug": "bag-of-tokens",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Sorting"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "3 ms",
+  "memory": "19.3 MB",
+  "submissionId": "2179074486",
+  "acceptedAt": "2026-10-22T17:56:57.668Z",
+  "updatedAt": "2026-10-22T17:56:58.810Z",
+  "url": "https://leetcode.com/problems/bag-of-tokens/",
+  "version": 1
+}

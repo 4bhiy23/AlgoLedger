@@ -5,6 +5,7 @@
     "leetcode/0695-max-area-of-island",
     "leetcode/0078-subsets",
     "leetcode/0046-permutations",
-    "leetcode/0022-generate-parentheses"
+    "leetcode/0022-generate-parentheses",
+    "leetcode/0948-bag-of-tokens"
   ]
 }
