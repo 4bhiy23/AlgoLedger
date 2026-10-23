@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "53",
+  "frontendId": "53",
+  "title": "Maximum Subarray",
+  "slug": "maximum-subarray",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Divide and Conquer",
+    "Dynamic Programming"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "18 ms",
+  "memory": "31.3 MB",
+  "submissionId": "2179898892",
+  "acceptedAt": "2026-10-23T17:52:22.911Z",
+  "updatedAt": "2026-10-23T17:52:23.716Z",
+  "url": "https://leetcode.com/problems/maximum-subarray/",
+  "version": 1
+}

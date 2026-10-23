@@ -114,5 +114,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-22T18:04:30.519Z"
+  },
+  {
+    "folderId": "leetcode/0053-maximum-subarray",
+    "frontendId": "53",
+    "title": "Maximum Subarray",
+    "slug": "maximum-subarray",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-23T17:52:22.911Z"
   }
 ]

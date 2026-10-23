@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**8** problems solved — 1 Easy · 7 Medium · 0 Hard
+**9** problems solved — 1 Easy · 8 Medium · 0 Hard
 
 ## Contents
 
@@ -16,6 +16,7 @@
 | --- | --- | --- | --- |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | String, Dynamic Programming, Backtracking, Bracket Sequences |
 | 0046 | [Permutations](0046-permutations/README.md) | Medium | Array, Backtracking |
+| 0053 | [Maximum Subarray](0053-maximum-subarray/README.md) | Medium | Array, Divide and Conquer, Dynamic Programming |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | Array, Backtracking, Bit Manipulation |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium | Array, Greedy |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
@@ -31,12 +32,13 @@
 | --- | --- | --- |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Array, Binary Search, Sorting |
 
-### Medium (7)
+### Medium (8)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | String, Dynamic Programming, Backtracking, Bracket Sequences |
 | 0046 | [Permutations](0046-permutations/README.md) | Array, Backtracking |
+| 0053 | [Maximum Subarray](0053-maximum-subarray/README.md) | Array, Divide and Conquer, Dynamic Programming |
 | 0078 | [Subsets](0078-subsets/README.md) | Array, Backtracking, Bit Manipulation |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Array, Greedy |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
@@ -50,11 +52,12 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (7)</summary>
+<summary>Array (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0046 | [Permutations](0046-permutations/README.md) | Medium |
+| 0053 | [Maximum Subarray](0053-maximum-subarray/README.md) | Medium |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
@@ -123,11 +126,21 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Dynamic Programming (1)</summary>
+<summary>Divide and Conquer (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0053 | [Maximum Subarray](0053-maximum-subarray/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Dynamic Programming (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
+| 0053 | [Maximum Subarray](0053-maximum-subarray/README.md) | Medium |
 
 </details>
 
@@ -192,12 +205,13 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (8)</summary>
+<summary>python3 (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 | 0046 | [Permutations](0046-permutations/README.md) | Medium |
+| 0053 | [Maximum Subarray](0053-maximum-subarray/README.md) | Medium |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
@@ -211,6 +225,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0053 | [Maximum Subarray](0053-maximum-subarray/README.md) | Medium | 2026-10-23 |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium | 2026-10-22 |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | 2026-10-22 |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | 2026-10-20 |

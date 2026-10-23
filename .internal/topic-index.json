@@ -6,7 +6,8 @@
     "leetcode/0078-subsets",
     "leetcode/0046-permutations",
     "leetcode/0948-bag-of-tokens",
-    "leetcode/0134-gas-station"
+    "leetcode/0134-gas-station",
+    "leetcode/0053-maximum-subarray"
   ],
   "Binary Search": [
     "leetcode/2089-find-target-indices-after-sorting-array"
@@ -43,7 +44,8 @@
     "leetcode/0022-generate-parentheses"
   ],
   "Dynamic Programming": [
-    "leetcode/0022-generate-parentheses"
+    "leetcode/0022-generate-parentheses",
+    "leetcode/0053-maximum-subarray"
   ],
   "Bracket Sequences": [
     "leetcode/0022-generate-parentheses"
@@ -54,5 +56,8 @@
   "Greedy": [
     "leetcode/0948-bag-of-tokens",
     "leetcode/0134-gas-station"
+  ],
+  "Divide and Conquer": [
+    "leetcode/0053-maximum-subarray"
   ]
 }
