@@ -68,5 +68,8 @@
   ],
   "0-1 Knapsack": [
     "leetcode/0494-target-sum"
+  ],
+  "Math": [
+    "leetcode/1551-minimum-operations-to-make-array-equal"
   ]
 }

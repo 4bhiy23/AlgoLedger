@@ -144,5 +144,17 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-29T05:57:44.050Z"
+  },
+  {
+    "folderId": "leetcode/1551-minimum-operations-to-make-array-equal",
+    "frontendId": "1551",
+    "title": "Minimum Operations to Make Array Equal",
+    "slug": "minimum-operations-to-make-array-equal",
+    "difficulty": "Medium",
+    "topics": [
+      "Math"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-29T06:15:12.387Z"
   }
 ]
