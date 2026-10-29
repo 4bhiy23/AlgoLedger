@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "problemId": "494",
+  "frontendId": "494",
+  "title": "Target Sum",
+  "slug": "target-sum",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Backtracking",
+    "Knapsack Problem",
+    "0-1 Knapsack"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "501 ms",
+  "memory": "74 MB",
+  "submissionId": "2184470050",
+  "acceptedAt": "2026-10-29T05:57:44.050Z",
+  "updatedAt": "2026-10-29T05:57:44.769Z",
+  "url": "https://leetcode.com/problems/target-sum/",
+  "version": 1
+}

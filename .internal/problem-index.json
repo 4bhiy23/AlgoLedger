@@ -128,5 +128,21 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-23T17:52:22.911Z"
+  },
+  {
+    "folderId": "leetcode/0494-target-sum",
+    "frontendId": "494",
+    "title": "Target Sum",
+    "slug": "target-sum",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Knapsack Problem",
+      "0-1 Knapsack"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-29T05:57:44.050Z"
   }
 ]

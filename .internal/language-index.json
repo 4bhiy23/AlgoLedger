@@ -8,6 +8,7 @@
     "leetcode/0022-generate-parentheses",
     "leetcode/0948-bag-of-tokens",
     "leetcode/0134-gas-station",
-    "leetcode/0053-maximum-subarray"
+    "leetcode/0053-maximum-subarray",
+    "leetcode/0494-target-sum"
   ]
 }

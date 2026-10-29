@@ -7,7 +7,8 @@
     "leetcode/0046-permutations",
     "leetcode/0948-bag-of-tokens",
     "leetcode/0134-gas-station",
-    "leetcode/0053-maximum-subarray"
+    "leetcode/0053-maximum-subarray",
+    "leetcode/0494-target-sum"
   ],
   "Binary Search": [
     "leetcode/2089-find-target-indices-after-sorting-array"
@@ -35,7 +36,8 @@
   "Backtracking": [
     "leetcode/0078-subsets",
     "leetcode/0046-permutations",
-    "leetcode/0022-generate-parentheses"
+    "leetcode/0022-generate-parentheses",
+    "leetcode/0494-target-sum"
   ],
   "Bit Manipulation": [
     "leetcode/0078-subsets"
@@ -45,7 +47,8 @@
   ],
   "Dynamic Programming": [
     "leetcode/0022-generate-parentheses",
-    "leetcode/0053-maximum-subarray"
+    "leetcode/0053-maximum-subarray",
+    "leetcode/0494-target-sum"
   ],
   "Bracket Sequences": [
     "leetcode/0022-generate-parentheses"
@@ -59,5 +62,11 @@
   ],
   "Divide and Conquer": [
     "leetcode/0053-maximum-subarray"
+  ],
+  "Knapsack Problem": [
+    "leetcode/0494-target-sum"
+  ],
+  "0-1 Knapsack": [
+    "leetcode/0494-target-sum"
   ]
 }

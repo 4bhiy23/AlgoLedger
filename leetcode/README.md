@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**9** problems solved — 1 Easy · 8 Medium · 0 Hard
+**10** problems solved — 1 Easy · 9 Medium · 0 Hard
 
 ## Contents
 
@@ -20,6 +20,7 @@
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | Array, Backtracking, Bit Manipulation |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium | Array, Greedy |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
+| 0494 | [Target Sum](0494-target-sum/README.md) | Medium | Array, Dynamic Programming, Backtracking, Knapsack Problem, 0-1 Knapsack |
 | 0695 | [Max Area of Island](0695-max-area-of-island/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
@@ -32,7 +33,7 @@
 | --- | --- | --- |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Array, Binary Search, Sorting |
 
-### Medium (8)
+### Medium (9)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -42,6 +43,7 @@
 | 0078 | [Subsets](0078-subsets/README.md) | Array, Backtracking, Bit Manipulation |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Array, Greedy |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
+| 0494 | [Target Sum](0494-target-sum/README.md) | Array, Dynamic Programming, Backtracking, Knapsack Problem, 0-1 Knapsack |
 | 0695 | [Max Area of Island](0695-max-area-of-island/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Array, Two Pointers, Greedy, Sorting |
 
@@ -52,7 +54,16 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (8)</summary>
+<summary>0-1 Knapsack (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0494 | [Target Sum](0494-target-sum/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Array (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -61,6 +72,7 @@ _No problems solved yet._
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
+| 0494 | [Target Sum](0494-target-sum/README.md) | Medium |
 | 0695 | [Max Area of Island](0695-max-area-of-island/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
@@ -68,13 +80,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Backtracking (3)</summary>
+<summary>Backtracking (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 | 0046 | [Permutations](0046-permutations/README.md) | Medium |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
+| 0494 | [Target Sum](0494-target-sum/README.md) | Medium |
 
 </details>
 
@@ -135,12 +148,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Dynamic Programming (2)</summary>
+<summary>Dynamic Programming (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 | 0053 | [Maximum Subarray](0053-maximum-subarray/README.md) | Medium |
+| 0494 | [Target Sum](0494-target-sum/README.md) | Medium |
 
 </details>
 
@@ -151,6 +165,15 @@ _No problems solved yet._
 | --- | --- | --- |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Knapsack Problem (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0494 | [Target Sum](0494-target-sum/README.md) | Medium |
 
 </details>
 
@@ -205,7 +228,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (9)</summary>
+<summary>python3 (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -215,6 +238,7 @@ _No problems solved yet._
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
+| 0494 | [Target Sum](0494-target-sum/README.md) | Medium |
 | 0695 | [Max Area of Island](0695-max-area-of-island/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
@@ -225,6 +249,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0494 | [Target Sum](0494-target-sum/README.md) | Medium | 2026-10-29 |
 | 0053 | [Maximum Subarray](0053-maximum-subarray/README.md) | Medium | 2026-10-23 |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium | 2026-10-22 |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | 2026-10-22 |
